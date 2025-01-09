@@ -193,7 +193,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="flex items-center justify-between px-10 bg-black h-14 rounded-xl opacity-50">
-          <div className="">Copyright</div>
+          <div className="">© 2025 - All Right Reserved @LoanAid</div>
           <div className="gap-3 flex items-center">
             Designed and Developed by DezainaHub
             <a

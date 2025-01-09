@@ -13,8 +13,10 @@ export default {
         secondary_green: "#114A43",
         accent_yellow: "#D8E28C",
         background_white: "#EAF3F2",
+        background_light_gray: "#f8f8f8",
         stroke_gray: "#C8C8C8",
         text_black: "#263238",
+        text_navyblue: "#293056",
         text_gray: "#5C6160",
       },
       backgroundImage: {
